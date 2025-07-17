@@ -1,3 +1,3 @@
-# AICTE_cycle2_2025
+# Deforestation(fire_classification)
 AICTE _virtualinternship
-Deforestation(fire classification)
+AICTE_cycle2_2025
